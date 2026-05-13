@@ -20,17 +20,13 @@
 
 <br/>
 
-## ⚡ About
-
-```ts
-const prashiv = {
-  role     : "Engineer & Builder",
-  college  : "MIMIT, Malout — B.Tech CSE (2027)",
-  dsa      : "C++ · 600+ LeetCode · daily grind since Jan 2026",
-  building : ["AfterClass", "FitFlow", "Provenancy"],
-  belief   : "Start from scratch. Ship it. Learn everything in between.",
-};
-```
+> ### *"I find problems, build solutions from scratch, and ship them."*
+>
+> *No tutorials followed end to end. No copy-paste architecture. Just figure it out.*
+>
+> *2 projects live. More cooking. Always learning, always building.*
+>
+> **This is who I am. Raw. Take it or leave it.**
 
 <br/>
 
